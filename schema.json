@@ -608,13 +608,13 @@
             "description": "name of the publication",
             "type": "string"
           },
-          "publisher": {
-            "description": "name of the publisher",
-            "type": "string"
-          },
           "publicationDate": {
             "description": "date of publication",
             "format": "date",
+            "type": "string"
+          },
+          "publisher": {
+            "description": "name of the publisher",
             "type": "string"
           },
           "resources": {
